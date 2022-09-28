@@ -1,1 +1,1 @@
-updating README from github interface, ALX project on git
+Updating README from github interface, ALX project on git
